@@ -1,6 +1,6 @@
 # MapReduce in C
 
-This project is a basic map reduce framework that can use threads to speed up excecution. Source code in is `src/mapreduce.c`.
+This project is a basic map reduce framework that can use threads to speed up excecution.
 ## Features
 
 - **Map**: From this input `("1", "the quick brown fox")`, the map stage produces `("the", "1")`, `("quick", "1")`, `("brown", "1")`, and `("fox", "1")` as the output. From These are essentially recording the encounters of these words from the input.
