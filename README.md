@@ -1,4 +1,4 @@
-# MapReduce in C
+# MapReduce framework in C
 
 This project is a basic map reduce framework that can use threads to speed up excecution.
 ## Features
